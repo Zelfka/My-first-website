@@ -1,1 +1,64 @@
+body {
+  width: 1000px;
+}
+.container {
+  background-color: rgb(49, 48, 48);
+  padding: 40px;
+  text-align: right;
+  margin-bottom: 0px;
+  width: 1000px;
 
+
+}
+a {
+  margin-right: 20px;
+  font-size: 30px;
+  color: deeppink;
+  width: 1400px;
+}
+.Tony {
+  background-image: url("assets/background.png");
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  width: 1000px;
+  height: 600px;
+  padding-left: 40px;
+  padding-right: 40px;
+  overflow: scroll;
+
+}
+h1 {
+  
+  font-size: 60px;
+  margin-left: 200px;
+}
+h3 {
+  font-size: 40px;
+  margin-left: 200px;
+  color: deeppink;
+  width: 1000px;
+  
+}
+p{
+  margin-left: 200px;
+  width: 1400px;
+
+}
+#dashes {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-size:50px;
+  margin-left: 200px;
+  width: 1400px;
+}
+#Set {
+  color: black;
+}
+section {
+  position: absolute;
+  margin-left: 220px;
+  top: 40px;
+}
